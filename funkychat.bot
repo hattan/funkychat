@@ -1,0 +1,24 @@
+{
+    "name": "funkychat",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+        {
+            "type": "endpoint",
+            "name": "production",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "6216f0ed-283f-4542-8941-f6bec6a1c4e8",
+            "appPassword": "Mkvzs063/5OjtMlIK65TMg==!KFbh3I3B+0uCDo8edZ75YfMne430Bb/yKp0mF4iJkHU=",
+            "id": "2"
+        }
+    ],
+    "padlock": "tU5F/eyDE8Yh+JoVA1m45w==!AyO8o3Iiy8qckj9PbixHmGMYzlEKjck6rcw/+rihBEt8RQFHW4yH4e0+wQyBnmXf",
+    "version": "2.0"
+}
