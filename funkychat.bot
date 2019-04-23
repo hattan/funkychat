@@ -13,7 +13,7 @@
         {
             "type": "endpoint",
             "name": "production",
-            "endpoint": "http://localhost:3978/api/messages",
+            "endpoint": "https://hattantestbot2.azurewebsites.net/api/messages",
             "appId": "6216f0ed-283f-4542-8941-f6bec6a1c4e8",
             "appPassword": "Mkvzs063/5OjtMlIK65TMg==!KFbh3I3B+0uCDo8edZ75YfMne430Bb/yKp0mF4iJkHU=",
             "id": "2"
