@@ -14,11 +14,11 @@
             "type": "endpoint",
             "name": "production",
             "endpoint": "https://hattantestbot2.azurewebsites.net/api/messages",
-            "appId": "9dc19731-53c4-4b1a-a37c-ca3d772585f0",
-            "appPassword": "Mkvzs063/5OjtMlIK65TMg==!KFbh3I3B+0uCDo8edZ75YfMne430Bb/yKp0mF4iJkHU=",
+            "appId": "8aa53961-5f56-42fa-bedd-15fca117dcb2",
+            "appPassword": "YY2WwJoJ9AnCko4jM02UFg==!ZJPhWaarp/4kEF5zGHWfeGWyjDa6J+/NLIgEWMhfnhI=",
             "id": "2"
         }
     ],
-    "padlock": "tU5F/eyDE8Yh+JoVA1m45w==!AyO8o3Iiy8qckj9PbixHmGMYzlEKjck6rcw/+rihBEt8RQFHW4yH4e0+wQyBnmXf",
+    "padlock": "SpCopzT99GoGCeGLnQresQ==!vqHdEo9AlbV/Y3XOKJDi1EvSqV/vyj2YReOLkCnXwXbjkynpRplpW62XrtCxx33I",
     "version": "2.0"
 }
